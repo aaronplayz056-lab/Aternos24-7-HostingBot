@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THE-BROS.aternos.me",
-    "port": 61752,
+    "ip": "NotStable_SMP.aternos.me",
+    "port": 61323,
     "version": "",
     "try-creative": false
   },
